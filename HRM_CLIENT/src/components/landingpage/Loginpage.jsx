@@ -35,7 +35,7 @@ const LoginPage = () => {
       localStorage.setItem("token", token);
       setIsLoggedIn(true);
       
-      alert('Login successful');
+      // alert('Login successful');
      
   } catch (error) {
       console.log("Error:", error);

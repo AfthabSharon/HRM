@@ -17,7 +17,7 @@ function Footer() {
           <a
             id="profile-link"
             target="_blank"
-            href="https://github.com/mohamedsalihva/MERN.git"
+            href="https://github.com/AfthabSharon/HRM.git"
           >
             <i className="fab fa-github fa-1x" />
             Github

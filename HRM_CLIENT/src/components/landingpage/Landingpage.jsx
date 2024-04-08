@@ -5,7 +5,7 @@ import image1 from "./image/steve-jobs-macintosh.jpg";
 import image2 from "./image/project-2.jpg";
 import image3 from "./image/project-3.jpg";
 import image4 from "./image/project-4.jpg";
-import image5 from "./image/project-5.jpg";
+import image5 from "./image/1671209395117.jpg";
 import image6 from "./image/project-6.jpg";
 import Footer from './Footer';
 
@@ -95,7 +95,7 @@ const LandingPage = () => {
             <div className="box">
               <a
                 target="_blank"
-                href="https://sites.google.com/view/dev-afif/"
+                href="https://www.pentair.com/en-us/brands/everpure.html"
               >
                 <img
                   src={image5}
